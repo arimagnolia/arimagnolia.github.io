@@ -26,7 +26,7 @@ export default [
         title: "Personal Website",
         imageUrl: Image4,
         description:["ReactJS"],
-        link: "https://github.com/arimagnolia/arimagnolia.github.io"
+        link: "https://www.google.com/"
     }
 
 ]
