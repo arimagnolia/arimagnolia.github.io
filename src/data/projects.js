@@ -1,6 +1,6 @@
 import Image1 from "../assets/bus_stop.jpg";
-import Image3 from "../assets/continents.jpg";
 import Image2 from "../assets/movies.jpg";
+import Image3 from "../assets/continents.jpg";
 import Image4 from "../assets/port.jpg";
 
 export default [
