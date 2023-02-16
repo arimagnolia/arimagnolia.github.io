@@ -1,0 +1,70 @@
+.project {
+    padding-bottom: 4rem;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}
+
+.project-card {
+    width: 300px;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    transition: 0.5s;
+    padding-bottom: 0.5rem;
+    background-color: white;
+}
+
+.project-card:hover {
+    transform: scale(1.1);
+}
+
+.image-container img {
+   width: 300px;
+   height: 200px;
+}
+
+.image-container h3 {
+    margin-left: 5px;
+    color: rgb(41, 152, 167);
+    padding-top: 0.3rem;
+    padding-bottom: 0.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.image-container p {
+    font-size: 14px;
+    margin-left: 5px;
+    color: black;
+}
+
+.image-container span {
+    border-width: 0.1px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    margin: 2px;
+    padding: 0.3rem;
+    
+}
+
+.btn {
+    background-color: rgb(33, 150, 243);
+    padding: 5px 15px;
+    margin-top: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    border-width: 0.3px;
+    border-radius: 5px;
+    border: none;
+    
+}
