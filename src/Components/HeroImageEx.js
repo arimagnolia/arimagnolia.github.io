@@ -28,7 +28,7 @@ function HeroImageEx() {
               Federated Hermes
             </h4>
             <p style={{color:"#fff"}}>
-              Improved business processes by writing and testing analytics reports (Visual Basic/SQL) and batch scripts.
+              Assisted senior developers with programming, testing, and documentation of application changes.  Promoted code to development, staging, and production environments.
             </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
