@@ -12,7 +12,7 @@ function HeroImage() {
         </div>
         <div className="about">
           <h1>Hi.</h1>
-            <p>My name is Ari and I design apps.</p>
+            <p>I'm Ari and I design apps.</p>
               <Link to="/projects">
                 <button type="button" className="home-btn">
                     Hire Me
