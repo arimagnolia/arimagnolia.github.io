@@ -1,0 +1,44 @@
+
+.projects h2 {
+    padding-bottom: 1rem;
+    animation: fadeInAnimation ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.subtitle-proj p {
+    font-size: larger;
+    text-align: center;
+    padding-bottom: 4rem;
+    animation: fadeInAnimation ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.project-section {
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(2, 0fr);
+    justify-content: center;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}
+
+@media screen and (max-width: 991px) {
+    .project-section {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+}
