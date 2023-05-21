@@ -28,8 +28,7 @@ function HeroImageEx() {
               Federated Hermes
             </h4>
             <p style={{color:"#fff"}}>
-              Assisted senior developers with programming, testing, and documentation of application changes.
-              Promoted code to development, staging, and production environments.
+              Worked collaboratively with senior engineers to develop custom business applications for financial-services systems by providing support in both backend and front-end development using .NET and SQL (Oracle).
             </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
