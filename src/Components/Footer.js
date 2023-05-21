@@ -11,7 +11,7 @@ function Footer() {
                 <div className="col0">
                     <h4>ABOUT ME</h4> 
                     <p>
-                        Hello!  I'm a student at the University of Pittsburgh studying computer science. I enjoy designing full-stack and front-end web applications.
+                        Hello!  I'm a new grad from the University of Pittsburgh with a Bachelors in Computer Science. I enjoy designing full-stack and front-end web applications.
                         Class of '23.  
                     </p>
                 </div>
